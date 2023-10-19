@@ -11,15 +11,6 @@ namespace Topic_5
         static void Main(string[] args)
         {
 
-
-
-
-
-
-
-
-
-
         }
     }
 }
